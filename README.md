@@ -6,6 +6,8 @@ This project analyzes 12 months of Cyclistic bike-share trip data to understand 
 
 The analysis focuses on ride volume, ride duration, day-of-week patterns, and monthly trends to identify opportunities for improving customer engagement and encouraging casual riders to become annual members.
 
+![Cyclistic Bike-Share Analysis Dashboard](Screenshots/cyclistic-dashboard.png)
+
 ## 🎯 Business Task
 
 The main objective is to understand:
